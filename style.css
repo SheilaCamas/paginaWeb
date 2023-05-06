@@ -1,0 +1,29 @@
+body{
+    background-color:plum ;
+    color: antiquewhite;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+p{
+    color:black;
+}
+.titulo{
+    /*para agreagar clases*/
+    color: #343434;
+
+}
+/*si no llevas punto afectas todos los elementos*/
+img{
+    height: 300px;
+    width: 300px;
+}
+
+footer{
+    
+    font-size: 25px;
+    background-color:lightgrey;
+    
+}
+
+
